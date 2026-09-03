@@ -11,5 +11,6 @@ AGPL-3.0-or-later terms. Its mechanism, terms, and scope are undecided and
 it is not yet available.
 
 Extracted from the NOESAR EVOLUTION monorepo
-(github.com/komandante78/NOESAR-EVOLUTION), rust/crates/noesar-sandbox,
-with its original commit history preserved.
+(github.com/komandante78/NOESAR-EVOLUTION -- a private repository at the time
+of writing), rust/crates/noesar-sandbox, with its original commit history
+preserved.
